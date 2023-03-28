@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80425305-68b8-407c-b696-ed54c3438e27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/3icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/arrow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/arrow1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/arrow3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/bunty.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/deepika.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/gaitonde.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/mirzapur.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/mypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/shahrukh.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/icons/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chat_Application_Using_GUI/src/server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Group_chatting_Application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client1st.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client2nd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client3rd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/3icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/arrow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/arrow1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/arrow3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/bunty.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/deepika.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/gaitonde.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/mirzapur.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/mirzapur1.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/mypic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/shahrukh.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Image_Encryption_Decryption/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Image_Encryption_Decryption/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Image_Encryption_Decryption/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Image_Encryption_Decryption/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Image_Encryption_Decryption/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Image_Encryption_Decryption/Image_Encryption_Decryption.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Image_Encryption_Decryption/out/production/Image_Encryption_Decryption/imageOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Image_Encryption_Decryption/src/imageOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Snake game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TikTokGame/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TikTokGame/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TikTokGame/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TikTokGame/src/tictaktok.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TikTokGame/src/tictaktok.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2L2GU1x0xaFwacBoaPIZviLJii8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.client1st">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="Group_chatting_Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client1st" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client1st" />
+      <module name="Group_chatting_Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client2nd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client2nd" />
+      <module name="Group_chatting_Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client3rd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client3rd" />
+      <module name="Group_chatting_Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server" />
+      <module name="Group_chatting_Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.client1st" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.client2nd" />
+        <item itemvalue="Application.client3rd" />
+        <item itemvalue="Application.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80425305-68b8-407c-b696-ed54c3438e27" name="Default Changelist" comment="" />
+      <created>1675061778678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675061778678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
